@@ -1,0 +1,4 @@
+invoice_id,client_id,invoice_number,invoice_file
+INV001,C001,1001,INV001.pdf
+INV002,C002,1002,INV002.pdf
+INV003,C003,1003,INV003.pdf
